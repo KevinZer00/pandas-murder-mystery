@@ -1,0 +1,151 @@
+comm_id,crew_id,message_summary,comm_time
+1,52,Routine equipment calibration complete.,2122-02-01 0:00:00
+2,93,"Power levels nominal, no issues detected.",2122-02-01 1:00:00
+3,15,Reactor temperature within safe range.,2122-02-01 2:00:00
+4,72,"Power levels nominal, no issues detected.",2122-02-01 3:00:00
+5,61,"Navigation status: stable, no course corrections needed.",2122-02-01 4:00:00
+6,21,"Navigation status: stable, no course corrections needed.",2122-02-01 5:00:00
+7,83,"Power levels nominal, no issues detected.",2122-02-01 6:00:00
+8,87,Standard operation log entry confirmed.,2122-02-01 7:00:00
+9,75,Routine check-in completed successfully.,2122-02-01 8:00:00
+10,75,Scheduled exercise drills completed.,2122-02-01 9:00:00
+11,88,Standard operation log entry confirmed.,2122-02-01 10:00:00
+12,100,Life support functioning at 100%.,2122-02-01 11:00:00
+13,24,Standard operation log entry confirmed.,2122-02-01 12:00:00
+14,3,System diagnostics report: all clear.,2122-02-01 13:00:00
+15,22,No external signals detected in the last 24 hours.,2122-02-01 14:00:00
+16,53,Routine equipment calibration complete.,2122-02-01 15:00:00
+17,2,System diagnostics report: all clear.,2122-02-01 16:00:00
+18,88,Maintenance update received and logged.,2122-02-01 17:00:00
+19,30,No external signals detected in the last 24 hours.,2122-02-01 18:00:00
+20,38,No external signals detected in the last 24 hours.,2122-02-01 19:00:00
+21,2,Medical supply inventory confirmed.,2122-02-01 20:00:00
+22,64,Routine check-in completed successfully.,2122-02-01 21:00:00
+23,60,Routine check-in completed successfully.,2122-02-01 22:00:00
+24,21,No external signals detected in the last 24 hours.,2122-02-01 23:00:00
+25,33,Life support functioning at 100%.,2122-02-02 0:00:00
+26,76,Standard operation log entry confirmed.,2122-02-02 1:00:00
+27,58,Medical supply inventory confirmed.,2122-02-02 2:00:00
+28,22,Routine equipment calibration complete.,2122-02-02 3:00:00
+29,89,No external signals detected in the last 24 hours.,2122-02-02 4:00:00
+30,49,Daily security protocol test passed.,2122-02-02 5:00:00
+31,91,"Navigation status: stable, no course corrections needed.",2122-02-02 6:00:00
+32,59,"Navigation status: stable, no course corrections needed.",2122-02-02 7:00:00
+33,42,System diagnostics report: all clear.,2122-02-02 8:00:00
+34,92,Maintenance update received and logged.,2122-02-02 9:00:00
+35,60,No anomalies in communication relays.,2122-02-02 10:00:00
+36,80,No anomalies in communication relays.,2122-02-02 11:00:00
+37,15,"Navigation status: stable, no course corrections needed.",2122-02-02 12:00:00
+38,62,Scheduled exercise drills completed.,2122-02-02 13:00:00
+39,62,"Crew morale high, no concerns reported.",2122-02-02 14:00:00
+40,47,System diagnostics report: all clear.,2122-02-02 15:00:00
+41,62,No anomalies in communication relays.,2122-02-02 16:00:00
+42,51,"Navigation status: stable, no course corrections needed.",2122-02-02 17:00:00
+43,55,Maintenance update received and logged.,2122-02-02 18:00:00
+44,64,No anomalies in communication relays.,2122-02-02 19:00:00
+45,3,Standard operation log entry confirmed.,2122-02-02 20:00:00
+46,51,Standard operation log entry confirmed.,2122-02-02 21:00:00
+47,7,Routine check-in completed successfully.,2122-02-02 22:00:00
+48,21,Life support functioning at 100%.,2122-02-02 23:00:00
+49,73,Routine check-in completed successfully.,2122-02-03 0:00:00
+50,39,Routine equipment calibration complete.,2122-02-03 1:00:00
+51,18,No external signals detected in the last 24 hours.,2122-02-03 2:00:00
+52,4,Daily security protocol test passed.,2122-02-03 3:00:00
+53,89,Routine check-in completed successfully.,2122-02-03 4:00:00
+54,60,Reactor temperature within safe range.,2122-02-03 5:00:00
+55,14,No anomalies in communication relays.,2122-02-03 6:00:00
+56,9,Scheduled exercise drills completed.,2122-02-03 7:00:00
+57,90,Medical supply inventory confirmed.,2122-02-03 8:00:00
+58,53,"Navigation status: stable, no course corrections needed.",2122-02-03 9:00:00
+59,2,Medical supply inventory confirmed.,2122-02-03 10:00:00
+60,84,Reactor temperature within safe range.,2122-02-03 11:00:00
+61,92,Maintenance update received and logged.,2122-02-03 12:00:00
+62,60,Routine check-in completed successfully.,2122-02-03 13:00:00
+63,71,Daily security protocol test passed.,2122-02-03 14:00:00
+64,44,Maintenance update received and logged.,2122-02-03 15:00:00
+65,8,"Crew morale high, no concerns reported.",2122-02-03 16:00:00
+66,47,"Crew morale high, no concerns reported.",2122-02-03 17:00:00
+67,35,Medical supply inventory confirmed.,2122-02-03 18:00:00
+68,78,No external signals detected in the last 24 hours.,2122-02-03 19:00:00
+69,81,System diagnostics report: all clear.,2122-02-03 20:00:00
+70,36,No external signals detected in the last 24 hours.,2122-02-03 21:00:00
+71,50,No anomalies in communication relays.,2122-02-03 22:00:00
+72,4,Reactor temperature within safe range.,2122-02-03 23:00:00
+73,2,Standard operation log entry confirmed.,2122-02-04 0:00:00
+74,6,Routine equipment calibration complete.,2122-02-04 1:00:00
+75,54,No external signals detected in the last 24 hours.,2122-02-04 2:00:00
+76,4,Life support functioning at 100%.,2122-02-04 3:00:00
+77,54,Routine equipment calibration complete.,2122-02-04 4:00:00
+78,93,Reactor temperature within safe range.,2122-02-04 5:00:00
+79,63,Routine equipment calibration complete.,2122-02-04 6:00:00
+80,18,Daily security protocol test passed.,2122-02-04 7:00:00
+81,67,Daily security protocol test passed.,2122-02-04 8:00:00
+82,44,Daily security protocol test passed.,2122-02-04 9:00:00
+83,65,"Encrypted message detected, unable to decode.",2122-02-04 10:00:00
+84,74,Maintenance update received and logged.,2122-02-04 11:00:00
+85,62,"Crew morale high, no concerns reported.",2122-02-04 12:00:00
+86,100,Routine equipment calibration complete.,2122-02-04 13:00:00
+87,14,Daily security protocol test passed.,2122-02-04 14:00:00
+88,95,Scheduled exercise drills completed.,2122-02-04 15:00:00
+89,48,Reactor temperature within safe range.,2122-02-04 16:00:00
+90,15,Maintenance update received and logged.,2122-02-04 17:00:00
+91,72,Daily security protocol test passed.,2122-02-04 18:00:00
+92,78,No external signals detected in the last 24 hours.,2122-02-04 19:00:00
+93,87,"Navigation status: stable, no course corrections needed.",2122-02-04 20:00:00
+94,34,"Navigation status: stable, no course corrections needed.",2122-02-04 21:00:00
+95,40,System diagnostics report: all clear.,2122-02-04 22:00:00
+96,85,Standard operation log entry confirmed.,2122-02-04 23:00:00
+97,80,Daily security protocol test passed.,2122-02-05 0:00:00
+98,82,Life support functioning at 100%.,2122-02-05 1:00:00
+99,53,System diagnostics report: all clear.,2122-02-05 2:00:00
+100,24,Reactor temperature within safe range.,2122-02-05 3:00:00
+101,26,Scheduled exercise drills completed.,2122-02-05 4:00:00
+102,89,"Power levels nominal, no issues detected.",2122-02-05 5:00:00
+103,60,Daily security protocol test passed.,2122-02-05 6:00:00
+104,41,"Navigation status: stable, no course corrections needed.",2122-02-05 7:00:00
+105,29,System diagnostics report: all clear.,2122-02-05 8:00:00
+106,15,Standard operation log entry confirmed.,2122-02-05 9:00:00
+107,45,Routine equipment calibration complete.,2122-02-05 10:00:00
+108,4,Routine equipment calibration complete.,2122-02-05 11:00:00
+109,89,Routine check-in completed successfully.,2122-02-05 12:00:00
+110,71,Scheduled exercise drills completed.,2122-02-05 13:00:00
+111,9,Reactor temperature within safe range.,2122-02-05 14:00:00
+112,88,Medical supply inventory confirmed.,2122-02-05 15:00:00
+113,1,"Navigation status: stable, no course corrections needed.",2122-02-05 16:00:00
+114,8,No anomalies in communication relays.,2122-02-05 17:00:00
+115,88,No anomalies in communication relays.,2122-02-05 18:00:00
+116,63,Life support functioning at 100%.,2122-02-05 19:00:00
+117,11,System diagnostics report: all clear.,2122-02-05 20:00:00
+118,81,"Navigation status: stable, no course corrections needed.",2122-02-05 21:00:00
+119,8,Maintenance update received and logged.,2122-02-05 22:00:00
+120,35,Standard operation log entry confirmed.,2122-02-05 23:00:00
+121,35,Medical supply inventory confirmed.,2122-02-06 0:00:00
+122,33,Routine equipment calibration complete.,2122-02-06 1:00:00
+123,5,Daily security protocol test passed.,2122-02-06 2:00:00
+124,41,Daily security protocol test passed.,2122-02-06 3:00:00
+125,28,No anomalies in communication relays.,2122-02-06 4:00:00
+126,7,Daily security protocol test passed.,2122-02-06 5:00:00
+127,73,Reactor temperature within safe range.,2122-02-06 6:00:00
+128,72,Medical supply inventory confirmed.,2122-02-06 7:00:00
+129,12,Routine check-in completed successfully.,2122-02-06 8:00:00
+130,34,"Power levels nominal, no issues detected.",2122-02-06 9:00:00
+131,33,Life support functioning at 100%.,2122-02-06 10:00:00
+132,48,"Crew morale high, no concerns reported.",2122-02-06 11:00:00
+133,23,No external signals detected in the last 24 hours.,2122-02-06 12:00:00
+134,62,Life support functioning at 100%.,2122-02-06 13:00:00
+135,88,System diagnostics report: all clear.,2122-02-06 14:00:00
+136,37,Routine check-in completed successfully.,2122-02-06 15:00:00
+137,99,Life support functioning at 100%.,2122-02-06 16:00:00
+138,44,Routine equipment calibration complete.,2122-02-06 17:00:00
+139,86,No anomalies in communication relays.,2122-02-06 18:00:00
+140,91,Scheduled exercise drills completed.,2122-02-06 19:00:00
+141,35,System diagnostics report: all clear.,2122-02-06 20:00:00
+142,65,"Encrypted message detected, unable to decode.",2122-02-06 21:00:00
+143,99,"Navigation status: stable, no course corrections needed.",2122-02-06 22:00:00
+144,47,Routine equipment calibration complete.,2122-02-06 23:00:00
+145,78,System diagnostics report: all clear.,2122-02-07 0:00:00
+146,3,Scheduled exercise drills completed.,2122-02-07 1:00:00
+147,1,Standard operation log entry confirmed.,2122-02-07 2:00:00
+148,5,Daily security protocol test passed.,2122-02-07 3:00:00
+149,90,Life support functioning at 100%.,2122-02-07 4:00:00
+150,14,Life support functioning at 100%.,2122-02-07 5:00:00

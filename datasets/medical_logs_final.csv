@@ -1,0 +1,201 @@
+log_id,crew_id,condition,log_date
+1,48,Healthy,2122-01-01
+2,20,Healthy,2122-01-02
+3,8,Broken arm,2122-01-03
+4,7,Healthy,2122-01-04
+5,67,Healthy,2122-01-05
+6,17,Minor cut on hand,2122-01-06
+7,33,Minor cut on hand,2122-01-07
+8,48,Minor cut on hand,2122-01-08
+9,76,Healthy,2122-01-09
+10,59,Healthy,2122-01-10
+11,86,Healthy,2122-01-11
+12,22,Healthy,2122-01-12
+13,30,Healthy,2122-01-13
+14,38,Healthy,2122-01-14
+15,51,Minor cut on chest,2122-01-15
+16,54,Healthy,2122-01-16
+17,8,Healthy,2122-01-17
+18,27,Healthy,2122-01-18
+19,27,Healthy,2122-01-19
+20,98,Concussion,2122-01-20
+21,21,Healthy,2122-01-21
+22,30,Fever,2122-01-22
+23,97,Healthy,2122-01-23
+24,28,Healthy,2122-01-24
+25,64,Healthy,2122-01-25
+26,97,Broken leg ,2122-01-26
+27,69,Healthy,2122-01-27
+28,61,Healthy,2122-01-28
+29,41,Broken leg,2122-01-29
+30,19,Healthy,2122-01-30
+31,4,Healthy,2122-01-31
+32,35,Healthy,2122-02-01
+33,64,Broken leg,2122-02-02
+34,67,Broken leg,2122-02-03
+35,65,Broken finger,2122-02-04
+36,44,Healthy,2122-02-05
+37,92,Healthy,2122-02-06
+38,30,Cough,2122-02-07
+39,93,Healthy,2122-02-08
+40,46,Healthy,2122-02-09
+41,6,Healthy,2122-02-10
+42,99,Fever,2122-02-11
+43,65,Broken leg,2122-02-12
+44,54,Healthy,2122-02-13
+45,93,Healthy,2122-02-14
+46,46,Fever,2122-02-15
+47,53,Healthy,2122-02-16
+48,95,Twisted ankle,2122-02-17
+49,99,Healthy,2122-02-18
+50,60,Fever,2122-02-19
+51,97,Healthy,2122-02-20
+52,63,Healthy,2122-02-21
+53,85,Healthy,2122-02-22
+54,32,Large cut on leg,2122-02-23
+55,87,Healthy,2122-02-24
+56,33,Healthy,2122-02-25
+57,67,Minor cut on hand,2122-02-26
+58,18,Healthy,2122-02-27
+59,25,Healthy,2122-02-28
+60,95,Healthy,2122-03-01
+61,14,Healthy,2122-03-02
+62,58,Healthy,2122-03-03
+63,67,Healthy,2122-03-04
+64,46,Large cut on hand,2122-03-05
+65,24,Healthy,2122-03-06
+66,32,Healthy,2122-03-07
+67,47,Fever,2122-03-08
+68,86,Healthy,2122-03-09
+69,23,Fever,2122-03-10
+70,66,Healthy,2122-03-11
+71,27,Healthy,2122-03-12
+72,2,Healthy,2122-03-13
+73,90,Concussion,2122-03-14
+74,17,Concussion,2122-03-15
+75,33,Healthy,2122-03-16
+76,9,Healthy,2122-03-17
+77,43,Minor cut on hand,2122-03-18
+78,48,Twisted ankle,2122-03-19
+79,39,Healthy,2122-03-20
+80,93,Healthy,2122-03-21
+81,42,Minor cut on chest,2122-03-22
+82,26,Broken leg,2122-03-23
+83,99,Healthy,2122-03-24
+84,50,Healthy,2122-03-25
+85,25,Healthy,2122-03-26
+86,24,Healthy,2122-03-27
+87,13,Healthy,2122-03-28
+88,60,Healthy,2122-03-29
+89,7,Healthy,2122-03-30
+90,57,Twisted ankle,2122-03-31
+91,36,Healthy,2122-04-01
+92,45,Healthy,2122-04-02
+93,20,Healthy,2122-04-03
+94,100,Broken hand,2122-04-04
+95,8,Healthy,2122-04-05
+96,16,Healthy,2122-04-06
+97,14,Concussion,2122-04-07
+98,76,Healthy,2122-04-08
+99,87,Healthy,2122-04-09
+100,15,Large cut on hand,2122-04-10
+101,92,Large cut on hand,2122-04-11
+102,98,Healthy,2122-04-12
+103,66,Healthy,2122-04-13
+104,32,Healthy,2122-04-14
+105,87,Fever,2122-04-15
+106,63,Healthy,2122-04-16
+107,86,Healthy,2122-04-17
+108,51,Fever,2122-04-18
+109,25,Healthy,2122-04-19
+110,58,Twisted ankle,2122-04-20
+111,63,Twisted ankle,2122-04-21
+112,62,Healthy,2122-04-22
+113,22,Healthy,2122-04-23
+114,58,Healthy,2122-04-24
+115,58,Healthy,2122-04-25
+116,86,Healthy,2122-04-26
+117,49,Minor cut on leg,2122-04-27
+118,52,Healthy,2122-04-28
+119,42,Healthy,2122-04-29
+120,70,Healthy,2122-04-30
+121,15,Fever,2122-05-01
+122,54,Cough,2122-05-02
+123,60,Healthy,2122-05-03
+124,97,Cough,2122-05-04
+125,8,Healthy,2122-05-05
+126,53,Healthy,2122-05-06
+127,60,Broken leg,2122-05-07
+128,5,Healthy,2122-05-08
+129,68,Healthy,2122-05-09
+130,6,Healthy,2122-05-10
+131,96,Minor cut on leg,2122-05-11
+132,94,Healthy,2122-05-12
+133,47,Healthy,2122-05-13
+134,99,Healthy,2122-05-14
+135,55,Minor cut on leg,2122-05-15
+136,40,Healthy,2122-05-16
+137,52,Large cut on leg,2122-05-17
+138,16,Healthy,2122-05-18
+139,13,Healthy,2122-05-19
+140,30,Twisted ankle,2122-05-20
+141,19,Healthy,2122-05-21
+142,17,Healthy,2122-05-22
+143,63,Healthy,2122-05-23
+144,19,Broken arm,2122-05-24
+145,92,Healthy,2122-05-25
+146,58,Healthy,2122-05-26
+147,55,Healthy,2122-05-27
+148,90,Broken arm,2122-05-28
+149,90,Healthy,2122-05-29
+150,62,Concussion,2122-05-30
+151,23,Fever,2122-05-31
+152,9,Healthy,2122-06-01
+153,12,Healthy,2122-06-02
+154,1,Healthy,2122-06-03
+155,58,Healthy,2122-06-04
+156,1,Healthy,2122-06-05
+157,34,Healthy,2122-06-06
+158,96,Healthy,2122-06-07
+159,48,Healthy,2122-06-08
+160,89,Healthy,2122-06-09
+161,1,Healthy,2122-06-10
+162,16,Healthy,2122-06-11
+163,61,Healthy,2122-06-12
+164,64,Minor cut on hand,2122-06-13
+165,63,Minor cut on hand,2122-06-14
+166,69,Healthy,2122-06-15
+167,22,Healthy,2122-06-16
+168,93,Healthy,2122-06-17
+169,67,Healthy,2122-06-18
+170,76,Healthy,2122-06-19
+171,26,Healthy,2122-06-20
+172,16,Healthy,2122-06-21
+173,51,Healthy,2122-06-22
+174,86,Healthy,2122-06-23
+175,57,Healthy,2122-06-24
+176,29,Concussion,2122-06-25
+177,78,Healthy,2122-06-26
+178,92,Fever,2122-06-27
+179,69,Healthy,2122-06-28
+180,47,Cough,2122-06-29
+181,94,Cough,2122-06-30
+182,62,Healthy,2122-07-01
+183,69,Healthy,2122-07-02
+184,76,Healthy,2122-07-03
+185,16,Healthy,2122-07-04
+186,90,Broken arm,2122-07-05
+187,90,Healthy,2122-07-06
+188,48,Healthy,2122-07-07
+189,85,Large cut on leg,2122-07-08
+190,39,Healthy,2122-07-09
+191,100,Healthy,2122-07-10
+192,33,Large cut on leg,2122-07-11
+193,94,Minor cut on leg,2122-07-12
+194,23,Healthy,2122-07-13
+195,10,Healthy,2122-07-14
+196,69,Healthy,2122-07-15
+197,100,Healthy,2122-07-16
+198,34,Healthy,2122-07-17
+199,52,Healthy,2122-07-18
+200,95,Healthy,2122-07-19

@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Spaceship Impostor Investigation</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://pyscript.net/releases/2025.7.3/core.css" />
+  <script type="module" src="https://pyscript.net/releases/2025.7.3/core.js"></script>
+  
+   <!-- PyScript Environment -->
+    <py-config>
+        packages = ["pandas"]
+        [[fetch]]
+            files = [
+                "../datasets/crew_manifest_final.csv",
+                "../datasets/communication_logs_final.csv",
+                "../datasets/interview_logs_final.csv",
+                "../datasets/medical_logs_final.csv",
+                "../datasets/security_logs_final.csv"
+            ]
+    </py-config>
+</head>
+<body>
+  <div class="container">
+    <h1 class="glitch-text">SPACESHIP IMPOSTOR INVESTIGATION</h1>
+    <div class="intro">
+      <p>
+        You are a crew member aboard the <strong>S.S. Horizon</strong>. The ship’s AI has detected an alien presence that mysteriously boarded the ship 
+        after departing from Planet X01-33. This alien presence is known to mimic life forms, adopting their language and behavior. 
+        Investigate the logs and identify the imposterr before it strikes. 
+        <br><br>
+        NOTES: <br>
+        - Witness from Command department <br>
+        - Alien last seen in Medbay on 2122-02-04 <br>
+        - Times are object data types
+      </p>
+    </div>
+
+    <button id="toggle-schema">Show Schema</button>
+
+    
+    <div id="schema-panel" class="schema">
+      <h2>Data Schema</h2>
+      <div class="schema-grid">
+        <div class="schema-card">
+          <h3>crew_manifest</h3>
+          <ul>
+            <li><strong>crew_id</strong> – INT</li>
+            <li><strong>name</strong> – STRING</li>
+            <li><strong>role</strong> – STRING</li>
+            <li><strong>department</strong> – STRING</li>
+            <li><strong>clearance_level</strong> – INT</li>
+            <li><strong>age</strong> - INT</li>
+          </ul>
+        </div>
+        <div class="schema-card">
+          <h3>interview_logs</h3>
+          <ul>
+            <li><strong>interview_id</strong> – INT</li>
+            <li><strong>crew_id</strong> – INT</li>
+            <li><strong>statement</strong> – STRING</li>
+          </ul>
+        </div>
+        <div class="schema-card">
+          <h3>medical_logs</h3>
+          <ul>
+            <li><strong>log_id</strong> – INT</li>
+            <li><strong>crew_id</strong> – INT</li>
+            <li><strong>condition</strong> – STRING</li>
+            <li><strong>log_date</strong> - TIMESTAMP</li>
+          </ul>
+        </div>
+        <div class="schema-card">
+          <h3>communication_logs</h3>
+          <ul>
+            <li><strong>comm_id</strong> – INT</li>
+            <li><strong>crew_id</strong> – INT</li>
+            <li><strong>message_summary</strong> – STRING</li>
+            <li><strong>comm_time</strong> - TIMESTAMP</li>
+          </ul>
+        </div>
+        <div class="schema-card">
+          <h3>security_logs</h3>
+          <ul>
+            <li><strong>entry_id</strong> – INT</li>
+            <li><strong>crew_id</strong> – INT</li>
+            <li><strong>location</strong> – STRING</li>
+            <li><strong>access_time</strong> - TIMESTAMP</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div id="answer-section">
+    <label for="imposter-input">Name of Imposter</label>
+    <div class="input-wrapper">
+        <input type="text" id="imposter-input" placeholder="Enter name">
+        <button id="submit-answer">Submit</button>
+    </div>
+    <p id="result-message"></p>
+</div>
+
+    <div class="terminal">
+      <label for="query">Enter Python code:</label>
+      <textarea id="query" rows="10" spellcheck="false"></textarea>
+      <button id="run-btn">Run Code</button>
+      <div id="output" class="output-box"></div>
+    </div>
+  </div>
+
+  <script type="py" src="script.py"></script>
+  <script>
+    document.getElementById("toggle-schema").addEventListener("click", () => {
+        const panel = document.getElementById("schema-panel")
+        panel.style.display = panel.style.display === "none" || panel.style.display === "" ? "block" : "none";
+    });
+  </script>
+</body>
+</html>
