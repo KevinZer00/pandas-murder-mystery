@@ -3,11 +3,11 @@ from js import document
 from pyodide.ffi import create_proxy
 
 # load the datasets
-crew_manifest = pd.read_csv('../datasets/crew_manifest_final.csv')
-communication_logs = pd.read_csv('../datasets/communication_logs_final.csv')
-interview_logs = pd.read_csv('../datasets/interview_logs_final.csv')
-medical_logs = pd.read_csv('../datasets/medical_logs_final.csv')
-security_logs = pd.read_csv('../datasets/security_logs_final.csv')
+crew_manifest = pd.read_csv('datasets/crew_manifest_final.csv')
+communication_logs = pd.read_csv('datasets/communication_logs_final.csv')
+interview_logs = pd.read_csv('datasets/interview_logs_final.csv')
+medical_logs = pd.read_csv('datasets/medical_logs_final.csv')
+security_logs = pd.read_csv('datasets/security_logs_final.csv')
 
 def run_query(event):
     query_box = document.getElementById('query')
